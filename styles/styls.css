@@ -49,15 +49,27 @@ p
 {
     max-width: 800px;
     margin: 0 auto;
-    background: rgba(255, 255, 255, 0.767);
+    background: rgba(43, 41, 41, 0.767);
     padding: 20px;
     border-radius: 15px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
 }
 
+.design
+{
+    max-width: 800px;
+    margin: 0 auto;
+    background: rgb(214, 81, 40);
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    color: white;
+}
+
+
 .game-description 
 {
-    color: #000;
+    color: #ffffff;
     padding: 15px;
     margin-bottom: 20px;
     border-radius: 10px;
@@ -95,7 +107,7 @@ p
 
 .game-modes button:hover 
 {
-    background-color: #555;
+    background-color: #cc5858;
 }
 
 .hide
