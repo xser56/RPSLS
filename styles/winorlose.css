@@ -1,0 +1,19 @@
+.message
+{
+    margin-top: 20rem;
+}
+
+.win
+{
+    color: rgb(248, 231, 133);
+}
+
+.lose
+{
+    color: rgb(230, 12, 12);
+}
+
+.padding
+{
+    margin-top: 10rem;
+}

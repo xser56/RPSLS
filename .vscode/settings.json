@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/99ccb63b-b431-4cf2-9fe0-bed74e2f9af5/resourceGroups/CodeStackAssignments/providers/Microsoft.Web/sites/RockPaperScissors",
+    "appService.deploySubpath": "."
+}
